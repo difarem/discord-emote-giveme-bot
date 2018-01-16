@@ -1,0 +1,8 @@
+token = ""
+
+messages = [
+	{channel=, id=},
+]
+roles = [
+	{name="", id=, role=},
+]
